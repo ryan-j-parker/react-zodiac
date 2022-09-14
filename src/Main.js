@@ -1,1 +1,0 @@
-import signs from './data';

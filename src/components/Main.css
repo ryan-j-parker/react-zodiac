@@ -1,0 +1,8 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    background-size: cover;
+    max-height: 100vh - 14rem;
+    width: 100vw - 2rem;
+    align-content: flex-start;
+}
