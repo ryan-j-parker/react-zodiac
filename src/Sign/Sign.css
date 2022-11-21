@@ -1,0 +1,28 @@
+.sign-card {
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(128, 0, 128, 0.527);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 2px 2px 12px -4px rgba(0, 0, 0, 1);
+}
+
+.sign-card img {
+    width: 175px;
+    height: auto;
+}
+
+.sign-card .name {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.sign-card .date {
+    color: azure;
+}

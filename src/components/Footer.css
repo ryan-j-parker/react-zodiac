@@ -1,0 +1,13 @@
+footer {
+    height: 2.5rem;
+    background-color: rgba(255, 0, 0, 0.678);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 15px;
+    box-sizing: border-box;
+    margin: 0;
+    color: azure;
+}
